@@ -1,5 +1,3 @@
-# Opencart-3.x-Popup
-
 Nochex Popup API Module for Open Cart
 ============
 
